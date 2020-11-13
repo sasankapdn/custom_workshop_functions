@@ -1,0 +1,38 @@
+{
+    "tutorials": [
+        {
+            "number": "0",
+            "filename": "README.md",
+            "title": "Read Me First",
+            "description": "Step-by-step workshop instructions",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "12/02/2020",
+            "contentid": "12nnnn"
+        },
+        {         
+            "title": "Lab 1: Function Setup by Administrator",
+            "description": "Function Setup by Administrator",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "10/31/2019",
+            "contentid": "12nnnn",
+            "filename": "1.md"
+        },
+        {         
+            "title": "Lab 2: API Upload to Object Storage and PUT to Astute",
+            "description": "API Upload to Object Storage and PUT to Astute",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "10/31/2019",
+            "contentid": "12nnnn",
+            "filename": "2.md"
+        },
+        {         
+            "title": "Lab 3: Response file sent back to Object Storage",
+            "description": "Response file sent back to Object Storage",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "10/31/2019",
+            "contentid": "12nnnn",
+            "filename": "3.md"
+        }
+
+    ]
+}
